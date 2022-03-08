@@ -1,1 +1,1 @@
-Working on shell redirections
+Working on shell variabless and expansions
